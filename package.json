@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/ninja/issues"
   },
-  "homepage": "https://github.com/AgtLucas/ninja"
+  "homepage": "https://github.com/AgtLucas/ninja",
+  "dependencies": {
+    "jquery": "^2.1.1"
+  }
 }
